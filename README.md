@@ -27,7 +27,7 @@ deployable by Anganwadi workers on any Android phone — offline.
 - Dataset: NFHS-5 (National Family Health Survey)
 
 ## Team
-PES University, Bengaluru — PES NEXT IGNITE MAKEATHON 2026
+PES College of Engineering, Mandya — PES NEXT IGNITE MAKEATHON 2026
 
 ## Status
 🚧 In active development
